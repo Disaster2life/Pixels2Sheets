@@ -2,8 +2,10 @@
 Program to convert Pixels data for spreadsheet usage
 
 # Usage
-Run your favourite terminal application, and run
-```python3 pixels2sheet.py {name/of/your/pixel's/file.json} {yourpixelspreadsheet.csv}```
+Run your favourite terminal application, and ru
+```
+python3 pixels2sheet.py {name/of/your/pixel's/file.json} {yourpixelspreadsheet.csv}
+```
 Make sure to have the location of your json file specified, the python program will create the csv file if it does not exist
 
 # Thanks to
